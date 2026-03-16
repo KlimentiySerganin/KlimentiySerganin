@@ -1,4 +1,4 @@
-#Hello! Welcome to my github page.
+## Hello! Welcome to my github page.
 
 # 🖥️ Software Developer | C# | C++ | Python | HTML/CSS  
 Passionate programmer with expertise in **C#**, **C++**, and **Python**, complemented by strong front-end skills in **HTML** and **CSS**. I build efficient, scalable, and clean code—whether it’s backend logic, system-level applications, or responsive web interfaces.
