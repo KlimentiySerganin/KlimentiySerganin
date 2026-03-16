@@ -16,6 +16,7 @@ Passionate programmer with expertise in **C#**, **C++**, and **Python**, complem
 
 ## 🏢 **OBSIDION Team** — Team Lead  
 I lead **OBSIDION Team**, a cross-functional group of developers and designers focused on creating indie games and software from scratch. Under my leadership, the team delivers projects from concept to release using Agile methodologies, clean code practices, and transparent communication. We believe great games are born from passion, discipline, and collaboration.
+Link on github: https://github.com/OBSIDION-Team
 
 
 This is what chat gpt writes about me.
